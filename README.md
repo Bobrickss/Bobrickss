@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://shikimori.io/uploads/poster/characters/36765/main_alt-8ca5e21f2ce1a6606e632069f81f2609.jpeg" width="220px" style="border-radius:12px"/>
+<img src="https://shikimori.io/uploads/poster/characters/36765/main_alt-8ca5e21f2ce1a6606e632069f81f2609.jpeg" width="220px"/>
 
 <br/><br/>
 
@@ -70,12 +70,24 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bobrickss&show_icons=true&theme=dark&bg_color=0d0810&title_color=c0143c&icon_color=8b0020&text_color=c9a0a8&border_color=2a1020&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobrickss&layout=compact&theme=dark&bg_color=0d0810&title_color=c0143c&text_color=c9a0a8&border_color=2a1020&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bobrickss&show_icons=true&theme=dark&bg_color=0d0810&title_color=c0143c&icon_color=8b0020&text_color=c9a0a8&border_color=2a1020" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobrickss&layout=compact&theme=dark&bg_color=0d0810&title_color=c0143c&text_color=c9a0a8&border_color=2a1020" height="165"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Bobrickss&theme=dark&background=0d0810&ring=c0143c&fire=8b0020&currStreakLabel=c0143c&sideLabels=c9a0a8&dates=c9a0a8&border=2a1020" width="500"/>
+
+<br/>
+
+---
+
+## 🎮 Mini Game — Block Blast
+
+<a href="https://bobrickss.github.io/bobrick-game/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PLAY%20BLOCK%20BLAST-%20Click%20to%20Play-c0143c?style=for-the-badge&labelColor=0d0810&color=8b0020" height="50"/>
+</a>
+
+> *Моя собственная игра Block Blast — расставляй блоки, заполняй линии, бей рекорды!*
 
 <br/>
 
