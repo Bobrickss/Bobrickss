@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/25782137/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0020,c0143c,6b0018&height=200&section=header&text=BOBRICK&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%203D%20Artist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
