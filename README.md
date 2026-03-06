@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PLAY%20BLOCK%20BLAST-%20Click%20to%20Play-c0143c?style=for-the-badge&labelColor=0d0810&color=8b0020" height="50"/>
 </a>
 
-> *Моя собственная игра Block Blast — расставляй блоки, заполняй линии, бей рекорды!*
+> *My own game Block Blast — arrange blocks, fill lines, break records!*
 
 <br/>
 
